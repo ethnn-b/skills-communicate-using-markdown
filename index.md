@@ -14,3 +14,8 @@ var myVar = "Hello, world!";
 def addition(int a, int b):
   return a+b
 ```
+
+- [ ] Turn on GitHub Pages
+- [X] Outline my portfolio
+- [ ] Introduce myself to the world
+
